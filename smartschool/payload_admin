@@ -1,0 +1,30 @@
+{
+    "adminId": "91199",
+    "name": "John Doe",
+    "is_active": 1,
+    "phoneNumber": "1234567890",
+    "address": "123 Main St",
+    "user": {
+        "userId": "1",
+        "username": "johndoe",
+        "password": "password123",
+        "email": "johndoe@example.com"
+    }
+}
+
+// update 
+
+
+{
+    "adminId": "14",
+    "name": "John Doe",
+    "is_active": 1,
+    "phoneNumber": "1234567890",
+    "address": "123 Main St",
+    "user": {
+        "userId": "14",
+        "username": "johndoe",
+        "password": "password123",
+        "email": "johndoe@example.com"
+    }
+}
